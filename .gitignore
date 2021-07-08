@@ -1,0 +1,7 @@
+/node_modules
+/New folder
+/vendor
+/storage
+*.env
+*.env.example
+*composer.lock
